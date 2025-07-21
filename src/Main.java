@@ -3,7 +3,7 @@ public class Main {
         int c =49;
         System.out.println("Ratan Kumar Singh");
         System.out.println("Galgotias...");
-        System.out.println(c);
+        System.out.println(age);
 
     }
 }

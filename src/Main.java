@@ -3,9 +3,8 @@ public class Main {
         int c =49;
         System.out.println("Ratan Kumar Singh");
         System.out.println("Galgotias...");
-        System.out.println(age);
+        System.out.println(c);
         System.out.println("change on vs code");
-        System.out.println("change on vs github");
 
     }
 }
